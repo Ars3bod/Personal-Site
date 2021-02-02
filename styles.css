@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  position: relative;
+  background: linear-gradient(90.07deg, #8a7733 0.05%, #b49b42 100.35%);
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  font-family: Poppins;
+}
+
+.center {
+  margin: auto;
+  display: block;
+  position: relative;
+  text-align: center;
+  top: 500px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 168px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  color: #ffff;
+}
+.nav-bar {
+  font-family: Poppins;
+  font-style: bold;
+  color: #e2e2e2;
+  font-size: 17px;
+  margin-left: 70px;
+  padding-bottom: 40px;
+}
+ol,
+ul {
+  list-style: none;
+}
+#ul-style {
+  margin: 10px;
+  width: 900px;
+}
+.li-style {
+  display: block;
+  width: 120px;
+  float: left;
+  margin-left: 2px;
+}
+
+.First-Sec {
+  background-color: #010107;
+  display: block;
+  height: 100%;
+  width: 100%;
+  padding-top: 60px;
+  padding-left: 120px;
+  box-sizing: border-box;
+}
+.second-sec {
+  background-color: #010107;
+  display: block;
+  height: 100%;
+  width: 100%;
+  padding-top: 60px;
+  padding-left: 120px;
+  box-sizing: border-box;
+}
+
+.third-sec {
+  background-color: #010107;
+  display: block;
+  height: 100%;
+  width: 100%;
+  padding-top: 60px;
+  padding-left: 120px;
+  box-sizing: border-box;
+}
+
+.fourth-sec {
+  background-color: #010107;
+  display: block;
+  height: 100%;
+  width: 100%;
+  padding-top: 60px;
+  padding-left: 120px;
+  box-sizing: border-box;
+}
+.fifth-sec {
+  background-color: #010107;
+  display: block;
+  height: 100%;
+  width: 50%;
+  padding-top: 60px;
+  padding-left: 120px;
+  box-sizing: border-box;
+}
+.header {
+  margin-top: 20px;
+}
+
+#dev {
+  font-weight: 600;
+  color: #dec467;
+  font-size: 230px;
+}
+#des {
+  font-weight: 600;
+  color: #dec467;
+  font-size: 230px;
+}
+.card-ed {
+  width: 636px;
+  height: 417px;
+  left: 296px;
+  top: 261px;
+  background: linear-gradient(180deg, #141414 0%, #131313 100%);
+  border-radius: 19px;
+  color: #e2e2e2;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 17px;
+  font-weight: 400;
+}
+.edu-logo {
+  display: block;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-top: 15px;
+}
+#Edu-h3 {
+  color: #dec467;
+  font-size: 29px;
+  font-weight: 500;
+}
